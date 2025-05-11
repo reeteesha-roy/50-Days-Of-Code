@@ -1,6 +1,6 @@
 # 🚀 Day 10 – #DrGViswanathan 50 Days Coding Challenge
 
-Double digits unlocked. Let’s go! 🎯 Today’s tasks were about cutting out the middle (literally) and flipping bulbs with some math flair.
+ Today’s tasks were about cutting out the middle (literally) and flipping bulbs with some math flair.
 
 ---
 
