@@ -44,7 +44,4 @@ Two possible approaches:
 - **Linked Lists:** One-pass pointer techniques can replace length-based logic when memory is tight and time matters.
 - **Math Problems:** Digit manipulation problems are often about patterns, not brute force.
 
----
-
-📌 Day 10 next — double digits, baby! Let’s keep pushing! 🔥
 
