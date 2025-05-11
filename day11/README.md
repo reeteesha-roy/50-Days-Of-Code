@@ -1,6 +1,6 @@
 # 🚀 Day 11 – #DrGViswanathan 50 Days Coding Challenge
 
-Staying sharp with a number theory dive and list manipulation finesse. Let’s go! 💥
+Today's challenges were about number theory dive and list manipulation finesse.
 
 ---
 
