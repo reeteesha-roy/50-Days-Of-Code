@@ -16,7 +16,7 @@ This repository documents my progress in the **#50DaysOfCoding for #DrGVishwanat
 ## 🗂️ Structure
 Each day includes:
 
-- A DSA or math-based problem in Leetcode 
+- One DSA and one math-based problem in Leetcode 
 - Approach and explanation (when applicable)  
 - Clean, well-documented code solution in Python
 
