@@ -1,20 +1,25 @@
 # 🚀 Day 15 – #DrGViswanathan 50 Days Coding Challenge  
 Today, we tackle problems related to finding the longest substring without repeating characters and converting a given integer to its corresponding Excel column title. Let’s dive into these challenges!
 
-## 💫 DSA Challenge: Longest Substring Without Repeating Characters (LeetCode 3)  
-**Problem:** Given a string `s`, find the length of the longest substring without repeating characters.
+## 💫 DSA Challenge: Add Two Numbers (LeetCode 2)  
+**Problem:**  
+Given two non-empty linked lists representing two non-negative integers. The digits are stored in reverse order, and each node contains a single digit. Add the two numbers and return the sum as a linked list.
 
 ### Approach:
-- Use a sliding window technique with two pointers, `left` and `right`.
-- Keep track of the characters in the current window using a dictionary or hash map.
-- As you iterate through the string with the `right` pointer, check if the character at `right` is already in the current window.
-- If it is, move the `left` pointer to the right of the first occurrence of the repeated character to maintain the uniqueness of the substring.
-- Keep track of the maximum length encountered during this process.
+- Initialize a dummy head node to build the result linked list.
+- Use two pointers to traverse the input linked lists.
+- Keep track of carry from the sum of digits.
+- For each pair of nodes, sum their values along with the carry.
+- Create a new node with the digit value of the sum modulo 10.
+- Update carry as the sum divided by 10.
+- Continue until both lists are fully traversed and carry is zero.
 
-**Time Complexity:** O(n), where n is the length of the string.  
-**Space Complexity:** O(min(n, m)), where n is the length of the string and m is the size of the character set.
+**Time Complexity:** O(max(m, n)), where m and n are the lengths of the two lists.  
+**Space Complexity:** O(max(m, n)), for the output list.
 
-**Why this works:** By dynamically adjusting the window to always contain unique characters, we efficiently find the longest substring without duplicates using just a single pass through the string.
+**Why this works:**  
+By simulating elementary addition digit by digit with carry, this approach effectively sums two numbers represented as linked lists in reverse order.
+
 
 ## 💫 Math-based Challenge: Convert Integer to Excel Column Title (LeetCode 168)  
 **Problem:** Given an integer `columnNumber`, return its corresponding column title as it appears in an Excel sheet.
