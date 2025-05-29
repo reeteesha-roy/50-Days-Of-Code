@@ -1,6 +1,6 @@
 # 🚀 Day 30 – #DrGViswanathan 50 Days Coding Challenge
 
-Halfway through the challenge and today’s problems got us thinking about cycles and diameters — classic brain teasers that sharpen your algorithm skills. Let’s dive in! 🧠🔥
+Today’s problems got us thinking about cycles and diameters which are classic brain teasers that sharpen your algorithm skills. 
 
 ---
 
