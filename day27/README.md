@@ -42,5 +42,5 @@ Another day, another set of challenges. Let’s dive right in!
 
 ## 💡 Key Takeaways:
 - **Tree Traversal Logic:** Recursive depth-first search is a powerful tool when exploring paths and conditions in trees.
-- **Greedy + DP Magic:** Kadane's Algorithm is a brilliant example of dynamic programming in disguise—simple logic, big impact.
+- **Greedy + DP Magic:** Kadane's Algorithm is a brilliant example of dynamic programming.
 - **Keep it Efficient:** Knowing when to use recursion vs iteration and greedy vs brute-force can massively cut down execution time.
